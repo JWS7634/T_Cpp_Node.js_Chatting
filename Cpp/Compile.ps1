@@ -1,0 +1,1 @@
+g++ ./main.cpp ./CrepeJson/CrepeJson.cpp -I ./CrepeJson/ -l ws2_32
