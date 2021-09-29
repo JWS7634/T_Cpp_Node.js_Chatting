@@ -17,3 +17,9 @@ node.js와 C++간의 TCP 통신을 이용한 콘솔 채팅 프로그램 및 라�
 	}
 ## 접속 끊기
 접속을 끊을시 서버와 다른 클라이언트에 알림
+# 사용된 라이브러리
+## 내부 라이브러리
+### CrepeJSON
+JSON 작성용
+https://github.com/JWS7634/Project_Crepe/tree/CrepeJson
+## 외부 라이브러리
